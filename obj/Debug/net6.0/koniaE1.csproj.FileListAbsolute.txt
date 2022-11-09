@@ -1,0 +1,15 @@
+C:\koniaE1\obj\Debug\net6.0\koniaE1.csproj.AssemblyReference.cache
+C:\koniaE1\obj\Debug\net6.0\koniaE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\koniaE1\obj\Debug\net6.0\koniaE1.AssemblyInfoInputs.cache
+C:\koniaE1\obj\Debug\net6.0\koniaE1.AssemblyInfo.cs
+C:\koniaE1\obj\Debug\net6.0\koniaE1.csproj.CoreCompileInputs.cache
+C:\koniaE1\bin\Debug\net6.0\koniaE1.exe
+C:\koniaE1\bin\Debug\net6.0\koniaE1.deps.json
+C:\koniaE1\bin\Debug\net6.0\koniaE1.runtimeconfig.json
+C:\koniaE1\bin\Debug\net6.0\koniaE1.dll
+C:\koniaE1\bin\Debug\net6.0\koniaE1.pdb
+C:\koniaE1\obj\Debug\net6.0\koniaE1.dll
+C:\koniaE1\obj\Debug\net6.0\refint\koniaE1.dll
+C:\koniaE1\obj\Debug\net6.0\koniaE1.pdb
+C:\koniaE1\obj\Debug\net6.0\koniaE1.genruntimeconfig.cache
+C:\koniaE1\obj\Debug\net6.0\ref\koniaE1.dll
